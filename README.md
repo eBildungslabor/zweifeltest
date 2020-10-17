@@ -1,39 +1,18 @@
-What's your bank robber name
-=================
+# Test für zweifelnde Pädagog\*innen
 
-A very useful and extremely important utility that helps you find out your name if you are/were to become a bank robber.
+Dieser 'Test' ist ursprünglich als Aufmunterung für eine zu sehr zweifelnde Kollegin entwickelt - und basiert auf der Spielerei von Jenn: [What's your bankrobber name?](https://glitch.com/~bankrobber)
+Ich teile das Projekt hier, weil ich erstens denke, dass sich vielleicht auch andere Pädagog\*innen über eine kleine Aufmunterung freuen. Zweitens und vor allem lässt es sich toll und einfach remixen, um z.B. eigene Motivations-Tests, individuelles Feedback oder andere Rückmeldungen im Lehr-Lern-Kontext zu gestalten.
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+## Anleitung
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Nachdem Du das Projejt auf Glitch remixr hast, kannst Du es Dir beliebig anpassen.
 
-Find out more [about Glitch](https://glitch.com/about).
+1. In der Datei index.html ist das Formular.
+2. In der Datei script.js ist das Ergebnis, das angezeigt wird. Du kannst in dem Text die eingegebenen Formularinhalte weiterverwenden.
+3. Das Meme wird gestaltet mit der Software [Memegen.Link](https://memegen.link/). Du kannst hier die darin installierten Bilder oder auch - wie in meinem Fall - Dein eigenes Bild verwenden, das Du dann unter 'assets' hochlädst und in der script.js Datei verlinkst.
 
+Nicht so schön: Im Namensfeld darf kein Leerzeichen sein. Sonst 
 
-Your Project
-------------
+## Lizenz
 
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+Ursprünglich erstellt von [Jenn](http://jennmoney.biz/), remixt im [eBildungslabor](https://ebildungslabor) - und zum weiteren Remix unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) (= mach damit, was Du willst) freigegeben.
