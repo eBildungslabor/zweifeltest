@@ -11,7 +11,7 @@ Nachdem Du das [Projekt auf Glitch](https://glitch.com/~zweifeltest) remixt hast
 2. In der Datei script.js ist das Ergebnis, das angezeigt wird. Du kannst in dem Text die eingegebenen Formularinhalte weiterverwenden.
 3. Das Meme wird gestaltet mit der Software [Memegen.Link](https://memegen.link/). Du kannst hier die darin installierten Bilder oder auch - wie in meinem Fall - Dein eigenes Bild verwenden, das Du dann unter 'assets' hochlädst und in der script.js Datei verlinkst.
 
-Nicht so schön: Im Namensfeld darf kein Leerzeichen sein. Sonst 
+Nicht so schön: Im Namensfeld darf kein Leerzeichen sein. Sonst klappt die Link-Generierung für das Meme nicht.
 
 ## Lizenz
 
