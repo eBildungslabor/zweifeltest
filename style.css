@@ -1,0 +1,38 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 4em;
+  text-align: center;
+}
+
+#name {
+  width: 50vw;
+  text-align: center;
+  font-size: 2em;
+  margin: .5em;
+}
+
+#zweifel {
+  width: 50vw;
+  text-align: center;
+  font-size: 2em;
+  margin: .5em;
+}
+
+
+#submit {
+  font-size: 1em;
+}
+
+#result {
+  display: none;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+footer {
+  margin-top: 5em;
+  font-style: italic;
+  font-size: .8em;
+}
