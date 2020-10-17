@@ -5,7 +5,7 @@ Ich teile das Projekt hier, weil ich erstens denke, dass sich vielleicht auch an
 
 ## Anleitung
 
-Nachdem Du das Projejt auf Glitch remixr hast, kannst Du es Dir beliebig anpassen.
+Nachdem Du das [Projekt auf Glitch](https://glitch.com/~zweifeltest) remixt hast, kannst Du es Dir beliebig anpassen.
 
 1. In der Datei index.html ist das Formular.
 2. In der Datei script.js ist das Ergebnis, das angezeigt wird. Du kannst in dem Text die eingegebenen Formularinhalte weiterverwenden.
